@@ -4,15 +4,16 @@
 - 🌱 I’m currently learning parsers and automatic code generation
 - 💬 Ask me about Plc programming, parsing files, industrial automation
 
-## SHORT ABOUT
+## ABOUT
 
-**"For me, what drives me, is all things electric and automated. I cannot imagine myself doing anything else."**
+The bigger the challenge, the bigger my interest in solving it. I can help your emerging products reach their functional and quality requirements. With my skill set, unique experience and passion for learning and developing we can create new products and improve existing ones.
 
-I have been working as an Electrotechnical officer onboard the largest container ships in the world where I learnt how shipboard systems work in practice. That knowledge improved my automation designing and programming skills later on in my carreer. Because of this I can provide unique experience from the operators and designers point of view, bridging the gap.
-
-In recent years I have been working with Power control automation products, building them from the ground up or improving the maintainance processes of existing products using Scrum and Lean Six Sigma methodologies.
-
-I am also a Python programmer so decision support with data analysis and automation assisted product development are my main points of interest.
+Education: Master of Electronic engineering and information technologies
+Experience: 3 years in marine service and maintenance, 5+ years in R&D of marine renewable technologies
+PLC knowledge: ABB 800xA, AC800M, AC500, B&R X20, Codesys
+Programming: IEC61131-3, C/C++, Python, Java, Javascript, XML
+Development process: TDD with HIL and SIL support, Azure DevOps, Git and Lean Six Sigma
+Core values: Quality, Leadership, Accountability
 
 ## Featured portfolio projects
 

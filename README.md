@@ -1,5 +1,10 @@
 # Hi there 👋
 
+- 🔭 I’m currently working on B&R port of Oscat library
+- 🌱 I’m currently learning parsers and automatic code generation
+- 💬 Ask me about Plc programming, parsing files, industrial automation
+
+## SHORT ABOUT
 
 **"For me, what drives me, is all things electric and automated. I cannot imagine myself doing anything else."**
 
@@ -13,6 +18,7 @@ I am also a Python programmer so decision support with data analysis and automat
 
 ### OSCAT LIB PORT FOR B&R AUTOMATION STUDIO
 
+![BR_OSCAT_LIB](https://github.com/tkucic/brOscatLib/blob/main/logo.png)
 This repo is a port of the popular Oscat lib to the B&R Automation studio platform. The library contains all functions and function blocks that are in OscatBasic 3.31 library.
 
 Join the project here --> [REPO](https://github.com/tkucic/brOscatLib)
@@ -37,18 +43,3 @@ You are welcome to try to control it yourself! It is harder than it looks. --> [
 In industrial automation the "hello world" program is a mixing tank. As a part of my portfolio I have written a simple mixing tank controller and a simulator. The project is meant for begginers and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
 
 Try mixing your own hre --> [REPO](https://github.com/tkucic/plc_hello_mixing_tank)
-
-<!--
-**tkucic/tkucic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

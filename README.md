@@ -8,12 +8,17 @@
 
 The bigger the challenge, the bigger my interest in solving it. I can help your emerging products reach their functional and quality requirements. With my skill set, unique experience and passion for learning and developing we can create new products and improve existing ones.
 
-Education: Master of Electronic engineering and information technologies
-Experience: 3 years in marine service and maintenance, 5+ years in R&D of marine renewable technologies
-PLC knowledge: ABB 800xA, AC800M, AC500, B&R X20, Codesys
-Programming: IEC61131-3, C/C++, Python, Java, Javascript, XML
-Development process: TDD with HIL and SIL support, Azure DevOps, Git and Lean Six Sigma
-Core values: Quality, Leadership, Accountability
+Education: Master of Electronic engineering and information technologies  
+
+Experience: 3 years in marine service and maintenance, 5+ years in R&D of marine renewable technologies  
+
+PLC knowledge: ABB 800xA, AC800M, AC500, B&R X20, Codesys  
+
+Programming: IEC61131-3, C/C++, Python, Java, Javascript, XML  
+
+Development process: TDD with HIL and SIL support, Azure DevOps, Git and Lean Six Sigma  
+
+Core values: Quality, Leadership, Accountability  
 
 ## Featured portfolio projects
 

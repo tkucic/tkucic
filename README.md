@@ -20,6 +20,8 @@ Development process: TDD with HIL and SIL support, Azure DevOps, Git and Lean Si
 
 Core values: Quality, Leadership, Accountability  
 
+---
+
 ## Featured portfolio projects
 
 ### OSCAT LIB PORT FOR B&R AUTOMATION STUDIO
@@ -30,6 +32,8 @@ This repo is a port of the popular Oscat lib to the B&R Automation studio platfo
 
 Join the project here --> [REPO](https://github.com/tkucic/brOscatLib)
 
+---
+
 ### PLC GARDEN CONTROLLER
 
 ![GARDEN_CTRL](https://github.com/tkucic/plc_garden_controller/blob/master/screenshot.gif)
@@ -37,6 +41,8 @@ Join the project here --> [REPO](https://github.com/tkucic/brOscatLib)
 Automated gardening at its best. This is a portfolio project that features a simulator and a controller of four gardens holding 25 flowers/plants each. Each garden has a watering platform system moved by servo motors. In this project the user can learn how to control servo motors, optimize instruction/path algorithms and generally learn how to program PLCs.
 
 You can try and make your own watering algorithm that will keep ALL of the flowers alive. --> [REPO](https://github.com/tkucic/plc_garden_controller)
+
+---
 
 ### PLC TRAFFIC CONTROL
 
@@ -46,6 +52,8 @@ Traffic control is often used a simple introduction into sequencing when program
 
 You are welcome to try to control it yourself! It is harder than it looks. --> [REPO](https://github.com/tkucic/plc_traffic_control)
 
+---
+
 ### PLC HELLO MIXING TANK
 
 ![MIXING_TANK](https://github.com/tkucic/plc_hello_mixing_tank/blob/master/screenshot.gif)
@@ -53,3 +61,5 @@ You are welcome to try to control it yourself! It is harder than it looks. --> [
 In industrial automation the "hello world" program is a mixing tank. As a part of my portfolio I have written a simple mixing tank controller and a simulator. The project is meant for begginers and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
 
 Try mixing your own here --> [REPO](https://github.com/tkucic/plc_hello_mixing_tank)
+
+---

@@ -24,6 +24,16 @@ Core values: Quality, Leadership, Accountability
 
 ## Featured portfolio projects
 
+### UniTest (Universal PLC Unit Test library)
+
+![UniTest](https://github.com/tkucic/UniTest/blob/main/logo.png)
+
+UniTest is a PLC, IDE and manufacturer agnostic library written using only the features of the IEC61131 standard. Due to this, portability to all IEC compliant platforms is straightforward and can be achieved programmatically or with minimal manual work.
+
+Join the project here --> [REPO](https://github.com/tkucic/UniTest)
+
+---
+
 ### OSCAT LIB PORT FOR B&R AUTOMATION STUDIO
 
 ![BR_OSCAT_LIB](https://github.com/tkucic/brOscatLib/blob/main/logo.png)

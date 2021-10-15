@@ -1,7 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on B&R port of Oscat library
-- 🌱 I’m currently learning parsers and automatic code generation
 - 💬 Ask me about Plc programming, parsing files, industrial automation
 
 ## ABOUT
@@ -23,6 +21,14 @@ Core values: Quality, Leadership, Accountability
 ---
 
 ## Featured portfolio projects
+
+### ModbusXml
+
+![ModbusXml](https://github.com/tkucic/modbusXml/blob/master/img/screenshot.png)
+
+These programs use pyModbus package to implement a Modbus client class, GUI for that client and a server. Configuration of client and the server can be done from the register and device configuration xml. The user of the program just needs to modify the xml file and run the server and GUI.
+
+Join the project here --> [REPO](https://github.com/tkucic/modbusXml)
 
 ### UniTest (Universal PLC Unit Test library)
 

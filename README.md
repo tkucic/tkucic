@@ -44,7 +44,7 @@ Join the project here --> [REPO](https://github.com/tkucic/UniTest)
 
 ![BR_OSCAT_LIB](https://github.com/tkucic/brOscatLib/blob/main/logo.png)
 
-This repo is a port of the popular Oscat lib to the B&R Automation studio platform. The library contains all functions and function blocks that are in OscatBasic 3.34, Oscat building 1.00 and the Oscat network 1.35.2 library. At the moment, the libraries are a work in progress, the main programmatic porting has been going well. Depending on the ammount of contributers the library will be ported to completion. Initial port was done from Codesys plc open xml export.
+This repo is a port of the popular Oscat lib to the B&R Automation studio platform. The library contains all functions and function blocks that are in OscatBasic 3.34, Oscat building 1.00 and the Oscat network 1.35.2 library. At the moment, the libraries are a work in progress, the main programmatic porting has been going well. Depending on the amount of contributors the library will be ported to completion. Initial port was done from Codesys plc open xml export.
 
 Join the project here --> [REPO](https://github.com/tkucic/brOscatLib)
 
@@ -64,7 +64,7 @@ You can try and make your own watering algorithm that will keep ALL of the flowe
 
 ![TRAFFIC_CTRL](https://github.com/tkucic/plc_traffic_control/blob/master/screenshot.gif)
 
-Traffic control is often used a simple introduction into sequencing when programming PLCs. As a part of my portfolio I have written a simple timing controller and a simulator for two crossroads that are one way streets with pedestrians going in all directions. The project is meant for begginers and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
+Traffic control is often used a simple introduction into sequencing when programming PLCs. As a part of my portfolio I have written a simple timing controller and a simulator for two crossroads that are one way streets with pedestrians going in all directions. The project is meant for beginners and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
 
 You are welcome to try to control it yourself! It is harder than it looks. --> [REPO](https://github.com/tkucic/plc_traffic_control)
 
@@ -74,7 +74,7 @@ You are welcome to try to control it yourself! It is harder than it looks. --> [
 
 ![MIXING_TANK](https://github.com/tkucic/plc_hello_mixing_tank/blob/master/screenshot.gif)
 
-In industrial automation the "hello world" program is a mixing tank. As a part of my portfolio I have written a simple mixing tank controller and a simulator. The project is meant for begginers and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
+In industrial automation the "hello world" program is a mixing tank. As a part of my portfolio I have written a simple mixing tank controller and a simulator. The project is meant for beginners and for educational purposes. It is published under MIT license. Written in CODESYS 3.5 and in structured text language.
 
 Try mixing your own here --> [REPO](https://github.com/tkucic/plc_hello_mixing_tank)
 

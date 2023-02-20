@@ -22,6 +22,12 @@ Core values: Quality, Leadership, Accountability
 
 ## Featured portfolio projects
 
+### Automation blog
+
+Blog that talks about PLCs, programming in general, Codesys and other Industrial automation topics. Visit [here](https://tkucic.github.io/) and join the discussion.
+
+---
+
 ### QueueLib
 
 This repo is a collection of all kinds of Queue function blocks. It is primarily used for educational purposes. The library is meant for Codesys V3 and its derivative IDEs for use in PLC programming. Function blocks are developed using OOIP using only methods.
@@ -36,6 +42,8 @@ Types of Queues:
 - Stack
 
 Join the project here --> [REPO](https://github.com/tkucic/QueueLib)
+
+---
 
 ### ModbusXml
 
